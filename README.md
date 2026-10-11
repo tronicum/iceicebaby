@@ -92,6 +92,18 @@ A second order with only a cappuccino was then `ACCEPTED` within about 80 second
 Why the first one was declined is unknown. Tip: ordering in person is still the more reliable way, since the crew
 gives you an answer right away. The MCP is just a lot more stylish. 😎
 
+## Development & tests
+
+```sh
+uv run pytest                          # 41 tests against recorded API fixtures, no network needed
+ICEPORTAL_LIVE=1 uv run pytest -m live # read-only contract tests against the real portal (train WiFi)
+```
+
+The tests run the real MCP tools against a fake `iceportal.de` (`tests/conftest.py`, `httpx.MockTransport`) that
+serves snapshots of the real API (`tests/fixtures/`, captured on an ICE; no order or seat data). The live tests
+check that the snapshots still match the real API, and never place an order. CI runs the mocked tests on
+Python 3.10/3.12/3.13 for every PR, and the release workflow only publishes when they pass.
+
 ## Notes
 
 - Cart and location live in memory of the running server process; restarting it clears them.
@@ -190,6 +202,19 @@ Eine zweite Bestellung nur mit Cappuccino wurde nach ca. 80 Sekunden `ACCEPTED`
 („Ihre Bestellung wurde angenommen und wird bald zu Ihnen gebracht.“), der gesamte Ablauf funktioniert also.
 Warum die erste abgelehnt wurde, ist unklar. Tipp: Mündlich bestellen ist weiterhin die verlässlichere Variante,
 weil das Team sofort Bescheid gibt. Der MCP ist dafür deutlich stylischer. 😎
+
+### Entwicklung & Tests
+
+```sh
+uv run pytest                          # 41 Tests gegen aufgezeichnete API-Fixtures, ohne Netzwerk
+ICEPORTAL_LIVE=1 uv run pytest -m live # lesende Contract-Tests gegen das echte Portal (Zug-WLAN)
+```
+
+Die Tests führen die echten MCP-Tools gegen ein gefälschtes `iceportal.de` aus (`tests/conftest.py`,
+`httpx.MockTransport`), das Schnappschüsse der echten API liefert (`tests/fixtures/`, im ICE aufgezeichnet, ohne
+Bestell- oder Platzdaten). Die Live-Tests prüfen, ob die Schnappschüsse noch zur echten API passen, und bestellen
+nie etwas. Die CI führt die Mock-Tests bei jedem PR mit Python 3.10/3.12/3.13 aus, und der Release-Workflow
+veröffentlicht nur, wenn sie grün sind.
 
 ### Hinweise
 

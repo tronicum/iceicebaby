@@ -1,0 +1,55 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Tests (Python ${{ matrix.python }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python: ['3.10', '3.12', '3.13']
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6.8.0
+
+      # The live contract tests (-m live) are skipped here: they need the train WiFi.
+      - name: Run tests against recorded fixtures
+        run: uv run --python ${{ matrix.python }} pytest -q
+
+  build:
+    name: Package builds and installs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+
+      - uses: astral-sh/setup-uv@d0cc045d04ccac9d8b7881df0226f9e82c39688e # v6.8.0
+
+      - name: Build
+        run: uv build
+
+      - name: Wheel starts and exposes the tools (clean venv, stdio)
+        run: |
+          uv venv /tmp/venv
+          uv pip install --python /tmp/venv/bin/python dist/*.whl
+          /tmp/venv/bin/python - <<'PY'
+          import asyncio
+          from fastmcp import Client
+          from fastmcp.client.transports import StdioTransport
+
+          async def main():
+              async with Client(StdioTransport(command="/tmp/venv/bin/iceicebaby-mcp", args=[])) as c:
+                  names = {t.name for t in await c.list_tools()}
+              assert {"list_menu", "add_to_cart", "place_order"} <= names, names
+              print(len(names), "tools")
+
+          asyncio.run(main())
+          PY

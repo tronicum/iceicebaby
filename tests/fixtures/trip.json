@@ -1,0 +1,45 @@
+{
+ "trip": {
+  "stopInfo": {
+   "actualNext": "8010159"
+  },
+  "stops": [
+   {
+    "station": {
+     "evaNr": "8011102",
+     "name": "Berlin Gesundbrunnen"
+    }
+   },
+   {
+    "station": {
+     "evaNr": "8098160",
+     "name": "Berlin Hbf"
+    }
+   },
+   {
+    "station": {
+     "evaNr": "8011113",
+     "name": "Berlin Südkreuz"
+    }
+   },
+   {
+    "station": {
+     "evaNr": "8010159",
+     "name": "Halle(Saale)Hbf"
+    }
+   },
+   {
+    "station": {
+     "evaNr": "8010101",
+     "name": "Erfurt Hbf"
+    }
+   },
+   {
+    "station": {
+     "evaNr": "8000105",
+     "name": "Frankfurt(Main)Hbf"
+    }
+   }
+  ]
+ }
+}
