@@ -366,5 +366,9 @@ async def get_order_status(order_id: str | None = None) -> Any:
     return await _get(f"/bap/api/orders/{oid}/status")
 
 
-if __name__ == "__main__":
+def main() -> None:
     mcp.run()
+
+
+if __name__ == "__main__":
+    main()

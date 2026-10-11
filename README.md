@@ -17,11 +17,11 @@ It talks to the same `/bap/api/*` endpoints as the ICE Portal web app.
 ## Install
 
 ```sh
-git clone https://github.com/tronicum/iceicebaby && cd iceicebaby
-claude mcp add iceicebaby -- uv --directory "$(pwd)" run server.py
+claude mcp add iceicebaby -- uvx iceicebaby-mcp
 ```
 
-The server speaks MCP over **stdio** (no port). Any other MCP client can launch `uv run server.py` the same way.
+The server speaks MCP over **stdio** (no port). Any other MCP client can launch `uvx iceicebaby-mcp` the same way.
+From source: `git clone https://github.com/tronicum/iceicebaby && cd iceicebaby && uv run iceicebaby`.
 
 ## Tools
 
@@ -115,11 +115,11 @@ https://iceportal.de/speisekarte). Er nutzt dieselben `/bap/api/*`-Endpunkte wie
 ### Installation
 
 ```sh
-git clone https://github.com/tronicum/iceicebaby && cd iceicebaby
-claude mcp add iceicebaby -- uv --directory "$(pwd)" run server.py
+claude mcp add iceicebaby -- uvx iceicebaby-mcp
 ```
 
-Der Server spricht MCP über **stdio** (kein Port). Andere MCP-Clients starten einfach `uv run server.py`.
+Der Server spricht MCP über **stdio** (kein Port). Andere MCP-Clients starten einfach `uvx iceicebaby-mcp`.
+Aus dem Quellcode: `git clone https://github.com/tronicum/iceicebaby && cd iceicebaby && uv run iceicebaby`.
 
 ### Tools
 
@@ -193,6 +193,15 @@ Warum die erste abgelehnt wurde, ist unklar (evtl. das Croissant mit Extra, evtl
 
 - Warenkorb und Standort liegen im Speicher des laufenden Serverprozesses; ein Neustart leert sie.
 - Inoffiziell, nicht mit der Deutschen Bahn verbunden. Die API ist undokumentiert und kann sich jederzeit ändern.
+
+## Releasing
+
+Tag `vX.Y.Z` (must equal `version` in `pyproject.toml`) and push the tag. `.github/workflows/release.yml`
+builds sdist + wheel, creates a GitHub Release, and publishes to PyPI as `iceicebaby-mcp` via
+[Trusted Publishing](https://docs.pypi.org/trusted-publishers/) (no token stored). One-time setup:
+on pypi.org add a *pending publisher* for project `iceicebaby-mcp`, owner `tronicum`, repository `iceicebaby`,
+workflow `release.yml`, environment `PyPI`; optionally add required reviewers to the `PyPI` environment
+in the repo settings.
 
 ## License
 

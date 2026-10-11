@@ -1,9 +1,33 @@
 [project]
-name = "iceicebaby"
+name = "iceicebaby-mcp"
 version = "0.1.0"
+description = "MCP server (FastMCP) for ordering food and drinks from the ICE board restaurant to your seat"
+readme = "README.md"
 license = "AGPL-3.0-or-later"
-requires-python = ">=3.12"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+keywords = ["mcp", "fastmcp", "ice", "deutsche-bahn", "bordrestaurant"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Programming Language :: Python :: 3",
+    "Topic :: Communications :: Chat",
+]
 dependencies = [
     "fastmcp>=4.1.0",
     "httpx>=0.28.1",
 ]
+
+[project.urls]
+Homepage = "https://github.com/tronicum/iceicebaby"
+Issues = "https://github.com/tronicum/iceicebaby/issues"
+
+[project.scripts]
+iceicebaby = "iceicebaby.server:main"
+iceicebaby-mcp = "iceicebaby.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/iceicebaby"]
