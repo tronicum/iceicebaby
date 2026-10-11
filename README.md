@@ -35,7 +35,7 @@ The server speaks MCP over **stdio** (no port). Any other MCP client can launch 
 | `set_location` | Coach, seat and exit station (validated) |
 | `add_to_cart` / `view_cart` / `remove_from_cart` / `clear_cart` | Local cart with EUR total |
 | `place_order` | Sends the order. **Only with `confirm=True`**, otherwise a preview |
-| `get_order_status` | `OPEN` (crew is checking) → accepted / rejected |
+| `get_order_status` | `OPEN` (crew is checking) → `DECLINED` / accepted |
 
 The menu is the *live* menu: `/bap/api/products` joined with `/bap/api/availabilities`.
 Sold-out items are hidden unless you pass `only_available=False`.
@@ -75,6 +75,19 @@ get_order_status()                                       # OPEN -> ...
 ```
 
 Quantity and extras: `add_to_cart(ecm_id=..., quantity=2)`, `extras={extra_ecm_id: amount}`.
+
+## Tested
+
+Verified against the live ICE Portal on an ICE (2026-10-11): menu, cart, location validation, order submission
+and status polling all work. The first real order (croissant + Bionella + cappuccino) reached the crew and came
+back as `OPEN` ("Wir prüfen Ihre Bestellanfrage") and then `DECLINED`:
+
+> Leider können wir die Bestellung nicht annehmen, da es derzeit nicht möglich ist, zum Platz zu bestellen.
+> Für Bestellungen sprechen Sie uns an oder besuchen Sie das Bordbistro.
+
+So the server works, but **ordering at the seat can be paused by the crew at any time**, even while
+`get_service_status` says `ACTIVE`. A decline is a normal outcome, not an error: go to the Bordbistro.
+An accepted/delivered order has not been observed yet; PRs with its status payload welcome.
 
 ## Notes
 
@@ -118,7 +131,7 @@ Der Server spricht MCP über **stdio** (kein Port). Andere MCP-Clients starten e
 | `set_location` | Wagen, Sitzplatz und Ausstieg (wird geprüft) |
 | `add_to_cart` / `view_cart` / `remove_from_cart` / `clear_cart` | Lokaler Warenkorb mit Summe in EUR |
 | `place_order` | Sendet die Bestellung. **Nur mit `confirm=True`**, sonst nur Vorschau |
-| `get_order_status` | `OPEN` (Team prüft) → angenommen / abgelehnt |
+| `get_order_status` | `OPEN` (Team prüft) → `DECLINED` / angenommen |
 
 Die Karte ist die *Live-Speisekarte*: `/bap/api/products` verknüpft mit `/bap/api/availabilities`.
 Ausverkauftes wird ausgeblendet, außer du übergibst `only_available=False`.
@@ -158,6 +171,19 @@ get_order_status()                                       # OPEN -> ...
 ```
 
 Menge und Extras: `add_to_cart(ecm_id=..., quantity=2)`, `extras={extra_ecm_id: Anzahl}`.
+
+### Getestet
+
+Gegen das echte ICE Portal im ICE geprüft (11.10.2026): Speisekarte, Warenkorb, Standortprüfung,
+Bestellung und Statusabfrage funktionieren. Die erste echte Bestellung (Croissant + Bionella + Cappuccino)
+kam beim Team an, war zuerst `OPEN` („Wir prüfen Ihre Bestellanfrage“) und wurde dann `DECLINED`:
+
+> Leider können wir die Bestellung nicht annehmen, da es derzeit nicht möglich ist, zum Platz zu bestellen.
+> Für Bestellungen sprechen Sie uns an oder besuchen Sie das Bordbistro.
+
+Der Server funktioniert also, aber **Bestellen am Platz kann vom Team jederzeit pausiert werden**, auch wenn
+`get_service_status` `ACTIVE` meldet. Eine Ablehnung ist ein normales Ergebnis, kein Fehler: dann ins Bordbistro.
+Eine angenommene bzw. gelieferte Bestellung wurde noch nicht beobachtet; über Status-Beispiele per PR freuen wir uns.
 
 ### Hinweise
 
