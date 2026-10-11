@@ -89,7 +89,8 @@ So the server works, but **ordering at the seat can be paused by the crew at any
 `get_service_status` says `ACTIVE`. A decline is a normal outcome, not an error: go to the Bordbistro.
 A second order with only a cappuccino was then `ACCEPTED` within about 80 seconds
 ("Ihre Bestellung wurde angenommen und wird bald zu Ihnen gebracht."), so the full flow works end to end.
-Why the first one was declined is unknown (possibly the croissant with extra, possibly just crew workload).
+Why the first one was declined is unknown. Tip: ordering in person is still the more reliable way, since the crew
+gives you an answer right away. The MCP is just a lot more stylish. 😎
 
 ## Notes
 
@@ -187,7 +188,8 @@ Der Server funktioniert also, aber **Bestellen am Platz kann vom Team jederzeit 
 `get_service_status` `ACTIVE` meldet. Eine Ablehnung ist ein normales Ergebnis, kein Fehler: dann ins Bordbistro.
 Eine zweite Bestellung nur mit Cappuccino wurde nach ca. 80 Sekunden `ACCEPTED`
 („Ihre Bestellung wurde angenommen und wird bald zu Ihnen gebracht.“), der gesamte Ablauf funktioniert also.
-Warum die erste abgelehnt wurde, ist unklar (evtl. das Croissant mit Extra, evtl. nur Auslastung des Teams).
+Warum die erste abgelehnt wurde, ist unklar. Tipp: Mündlich bestellen ist weiterhin die verlässlichere Variante,
+weil das Team sofort Bescheid gibt. Der MCP ist dafür deutlich stylischer. 😎
 
 ### Hinweise
 
