@@ -1,0 +1,9 @@
+[project]
+name = "iceicebaby"
+version = "0.1.0"
+license = "AGPL-3.0-or-later"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=4.1.0",
+    "httpx>=0.28.1",
+]
