@@ -1,0 +1,5140 @@
+[
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13409740,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Rotes Thai Curry mit Shiitake-Pilzen",
+  "description": "Gemüse & Basmatireis",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 16.7
+   },
+   {
+    "currency": "EUR",
+    "price": 13.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13509834,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "7 DAYS Croissant Kakao",
+  "description": "60g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "4",
+    "description": "konserviert"
+   },
+   {
+    "shortDescription": "15",
+    "description": "aromatisiert"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.4
+   },
+   {
+    "currency": "EUR",
+    "price": 2.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044368,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Mezete to go Classic Hummus mit Brotsticks",
+  "description": "81 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579368,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Adelholzener Apfelschorle",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13509828,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Wasa Sandwich Käse-Schnittlauch",
+  "description": "37g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721818,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Sandwich Chicken Caesar Style",
+  "description": "mit Pulled Chicken, italienischem Hartkäse, Frühlingszwiebeln & Tomaten",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13578692,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Vegetarisches Vollkorn-Haferbrot",
+  "description": "belegt mit Bergkäse, Kräuterfrischkäse und eingelegten Zwiebeln",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 7.8
+   },
+   {
+    "currency": "EUR",
+    "price": 6.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563758,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Twix Xtra",
+  "description": "75g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.0
+   },
+   {
+    "currency": "EUR",
+    "price": 2.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044356,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Wasa Sandwich Käse-Tomate-Basilikum",
+  "description": "40 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568732,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Veganes Chili-sin-Carne",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564018,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Oatly Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564020,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Oatly Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579380,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Bitburger Radler naturtrüb",
+  "description": "0,33 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703620,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee mit Oatly Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13149662,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Bionella",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564022,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Oatly Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703622,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee mit Oatly Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579382,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Coca-Cola",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "12",
+    "description": "koffeinhaltig"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563512,
+  "vzn": "837",
+  "category": "",
+  "title": "Buttercroissant",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703624,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee mit Oatly Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579384,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Coca-Cola Zero",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "10",
+    "description": "mit Süßungsmittel"
+   },
+   {
+    "shortDescription": "11",
+    "description": "enthält eine Phenylalaninquelle"
+   },
+   {
+    "shortDescription": "12",
+    "description": "koffeinhaltig"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579388,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "ERDINGER Alkoholfrei",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10649788,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur Sally S-Bahn",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12997348,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Warmes Croissant Brötchen mit Gouda",
+  "description": "Tomaten, Zwiebeln und Gurkenaufstrich",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "4",
+    "description": "konserviert"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 8.3
+   },
+   {
+    "currency": "EUR",
+    "price": 6.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579330,
+  "vzn": "837",
+  "category": "",
+  "title": "Latte Macchiato Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579332,
+  "vzn": "837",
+  "category": "",
+  "title": "Latte Macchiato Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.5
+   },
+   {
+    "currency": "EUR",
+    "price": 4.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044400,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Brauhausgulasch",
+  "description": "mit Nudeln",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "13",
+    "description": "mit Alkohol"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 19.1
+   },
+   {
+    "currency": "EUR",
+    "price": 15.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13500138,
+  "vzn": "837",
+  "category": "",
+  "title": "Veganes Bauernbrötchen mit Saaten",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.9
+   },
+   {
+    "currency": "EUR",
+    "price": 1.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579334,
+  "vzn": "837",
+  "category": "",
+  "title": "Latte Macchiato Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.0
+   },
+   {
+    "currency": "EUR",
+    "price": 5.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044414,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Pinsa Pocket Verde Amore ",
+  "description": "mit Spinat, getrockneten Tomaten & Mozzarella",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881082,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Knoblauch-Dip",
+  "description": "70 ml",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14036986,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Knalle Popkorn ",
+  "description": "Butterkaramell Tahiti-Vanille, 40 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.4
+   },
+   {
+    "currency": "EUR",
+    "price": 4.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579340,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE Spearminze Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.2
+   },
+   {
+    "currency": "EUR",
+    "price": 4.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579342,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE Spearminze Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721824,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Vegane Treets Erdnüsse mit ChoViva",
+  "description": "100 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "8",
+    "description": "gewachst"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.3
+   },
+   {
+    "currency": "EUR",
+    "price": 3.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12691440,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Haribo Goldbären",
+  "description": "100g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "8",
+    "description": "gewachst"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.1
+   },
+   {
+    "currency": "EUR",
+    "price": 2.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880544,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Zitronenkuchen",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044384,
+  "vzn": "837",
+  "category": "Suppe",
+  "title": "Vegetarische Kürbiscremesuppe",
+  "description": "mit Kürbiskern-Crouton-Crunch & Brötchen",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12868348,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Jever Fun Alkoholfrei",
+  "description": "0,33 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14043886,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Veganer KoRo Protein Bar Deluxe",
+  "description": "Raspberry Choc, 55 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "10",
+    "description": "mit Süßungsmittel"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12868350,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Starnberger Hell",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10506138,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10506140,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568754,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Chili-con-Carne",
+  "description": "vom Rind mit Brötchen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10506142,
+  "vzn": "837",
+  "category": "",
+  "title": "Filterkaffee Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13409676,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "König Pilsener",
+  "description": "0,33 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564064,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Earl Grey Tea Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.2
+   },
+   {
+    "currency": "EUR",
+    "price": 4.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881232,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Rosengarten Florentiner Mandelknacker Duo",
+  "description": "80 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564066,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Earl Grey Tea Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881238,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Kartoffeleintopf mit Bauchspeck",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563812,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Veganer BIO KoRo Haferriegel",
+  "description": "mit Schokostückchen & Erdnusscrunch, 60g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13294220,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "BIO Adelholzener Zitronen Limonade",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044056,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Starbucks® Frappuccino® Pumpkin Spice",
+  "description": "0,25 l Flasche",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "12",
+    "description": "koffeinhaltig"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.4
+   },
+   {
+    "currency": "EUR",
+    "price": 4.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579182,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO English Breakfast Tea Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.2
+   },
+   {
+    "currency": "EUR",
+    "price": 4.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881244,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Miss Mineva´s Cup Wunder",
+  "description": "Mango Curry mit Reis",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10637810,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Herbal Refresh Kräutertee Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579184,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO English Breakfast Tea Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10637808,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Herbal Refresh Kräutertee Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.2
+   },
+   {
+    "currency": "EUR",
+    "price": 4.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13981568,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Süßer Senf",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564342,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Oatly Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13294226,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Krombacher Spezi",
+  "description": "0,33 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "12",
+    "description": "koffeinhaltig"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564344,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Oatly Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881226,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "The Bitery Cookie",
+  "description": "Chocolate Chip Chip Hooray",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564346,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Oatly Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10505982,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Veganes Chili sin Carne",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563776,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Tony's Chocolonely Vollmilchschokolade",
+  "description": "mit Karamell & Meersalz, 47g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579392,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "ERDINGER Weißbier",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579394,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Fever Tree Mediterranean Tonic Water",
+  "description": "0,2 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "17",
+    "description": "chininhaltig"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564038,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Kaffee löslich, entkoffeiniert",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13884090,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Veganer KoRo Proteinriegel",
+  "description": "Chocolate Brownie, 55g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579400,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Mineralwasser sprudelnd",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579402,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Mineralwasser still",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563788,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Snickers Doppelpack",
+  "description": "80g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.1
+   },
+   {
+    "currency": "EUR",
+    "price": 2.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14044344,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "KitKat Classic",
+  "description": "41,5 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 2.9
+   },
+   {
+    "currency": "EUR",
+    "price": 2.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13509822,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Marmorkuchen-Scheiben 2er-Packung",
+  "description": "2 x 35g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.8
+   },
+   {
+    "currency": "EUR",
+    "price": 3.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564050,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10505940,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Chili con Carne",
+  "description": "vom Rind, mit Sour Cream & Brötchen",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564052,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13409722,
+  "vzn": "837",
+  "category": "Kindermenü",
+  "title": "BIO MOGLi Quetschie",
+  "description": "Erdbeere mit Apfel & Banane 100g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.8
+   },
+   {
+    "currency": "EUR",
+    "price": 3.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564054,
+  "vzn": "837",
+  "category": "",
+  "title": "Café Crème Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13008318,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Kaffee löslich, entkoffeiniert mit OATLY",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12691896,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Siegfried Rheinland Dry Gin",
+  "description": "Alc. 41 Vol.-%, 4 cl Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 8.3
+   },
+   {
+    "currency": "EUR",
+    "price": 6.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13509812,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Nissin Cup Noodles Miso",
+  "description": "Ramen Style",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "3",
+    "description": "mit Geschmacksverstärker"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563806,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Vegane Lisas BIO-Kesselchips",
+  "description": "Meersalz, 50g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14043990,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Club-Sandwich",
+  "description": "mit Hähnchen, Ei & Tomate",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "4",
+    "description": "konserviert"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   },
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13034824,
+  "vzn": "837",
+  "category": "",
+  "title": "Veganes Bauernbrötchen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.9
+   },
+   {
+    "currency": "EUR",
+    "price": 1.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881154,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Basilikum-Pesto",
+  "description": "mit Fusilli",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.0
+   },
+   {
+    "currency": "EUR",
+    "price": 12.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13732674,
+  "vzn": "837",
+  "category": "",
+  "title": "2xButter",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 2.9
+   },
+   {
+    "currency": "EUR",
+    "price": 2.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568604,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Double Choc Muffin",
+  "description": "75g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "3",
+    "description": "mit Geschmacksverstärker"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13732676,
+  "vzn": "837",
+  "category": "",
+  "title": "2x Margarine",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 2.9
+   },
+   {
+    "currency": "EUR",
+    "price": 2.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880900,
+  "vzn": "837",
+  "category": "",
+  "title": "Bio Fleischkäse",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": false,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880644,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Schloss Affaltrach Riesling Sekt",
+  "description": "brut, Deutscher Sekt b.A., Württemberg, 0,25 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "16",
+    "description": "enthält Sulfite"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.7
+   },
+   {
+    "currency": "EUR",
+    "price": 8.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568598,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "BiFi Roll",
+  "description": "45g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   },
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.4
+   },
+   {
+    "currency": "EUR",
+    "price": 2.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880648,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Riesling von Peter Stolleis",
+  "description": "QbA, trocken, Pfalz, 0,25 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "16",
+    "description": "enthält Sulfite"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.7
+   },
+   {
+    "currency": "EUR",
+    "price": 8.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13417296,
+  "vzn": "837",
+  "category": "Hauptgerichte",
+  "title": "Hähnchen Tikka Masala",
+  "description": "mit Basmatireis",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 17.9
+   },
+   {
+    "currency": "EUR",
+    "price": 14.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579212,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Grüntee Jingshen Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.2
+   },
+   {
+    "currency": "EUR",
+    "price": 4.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579214,
+  "vzn": "837",
+  "category": "",
+  "title": "EILLES TEE BIO Grüntee Jingshen Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568636,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Wasa Sandwich Pesto-Geschmack",
+  "description": "37g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.5
+   },
+   {
+    "currency": "EUR",
+    "price": 2.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703528,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568628,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Handl Tyrol Milde Tyrolini Salami-Sticks ",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   },
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 7.0
+   },
+   {
+    "currency": "EUR",
+    "price": 5.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703530,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13703532,
+  "vzn": "837",
+  "category": "",
+  "title": "Kaffee Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508128,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Honig",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721872,
+  "vzn": "837",
+  "category": "",
+  "title": "Der kleine ICE",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881104,
+  "vzn": "837",
+  "category": "",
+  "title": "Kartoffelecken",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.0
+   },
+   {
+    "currency": "EUR",
+    "price": 5.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12691458,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Vegane ültje Erdnüsse",
+  "description": "geröstet & gesalzen, 50 g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.0
+   },
+   {
+    "currency": "EUR",
+    "price": 2.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508132,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Konfitüre",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880854,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Almdudler Kräuterlimonade",
+  "description": "0,35 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559076,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur \"Benni IC Bus\"",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559078,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur Nick Nachtzug",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559080,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur IC-IDA",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564202,
+  "vzn": "837",
+  "category": "",
+  "title": "Café au Lait Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559084,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur \"Robbi Regio\"",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564204,
+  "vzn": "837",
+  "category": "",
+  "title": "Café au Lait Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.0
+   },
+   {
+    "currency": "EUR",
+    "price": 5.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10564206,
+  "vzn": "837",
+  "category": "",
+  "title": "Café au Lait Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.5
+   },
+   {
+    "currency": "EUR",
+    "price": 4.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559086,
+  "vzn": "837",
+  "category": "",
+  "title": "Kartenspiel Kinder",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508144,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Ketchup",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559088,
+  "vzn": "837",
+  "category": "",
+  "title": "Günni Güterzug",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 14024708,
+  "vzn": "837",
+  "category": "Süß & salzig",
+  "title": "Bio Heimatgut Kartoffelchips",
+  "description": "Meersalz, 40g",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508146,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Mayo",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559090,
+  "vzn": "837",
+  "category": "",
+  "title": "Spielfigur Opa Adler",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508148,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Senf",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880582,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Siegfried Rheinland Summer Gin",
+  "description": "Alc. 41 Vol.-%, 4 cl Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 8.3
+   },
+   {
+    "currency": "EUR",
+    "price": 6.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559092,
+  "vzn": "837",
+  "category": "",
+  "title": "Simsala Sum",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508150,
+  "vzn": "837",
+  "category": "",
+  "title": "Veganes BIO Topping Haselnuss-Cashew",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 2.2
+   },
+   {
+    "currency": "EUR",
+    "price": 1.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10559094,
+  "vzn": "837",
+  "category": "",
+  "title": "Kleiner ICE RD",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579318,
+  "vzn": "837",
+  "category": "",
+  "title": "Espresso Macchiato Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880836,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "THAT´S NEISS Tinto Réserve",
+  "description": "Rotwein, QbA, trocken, Pfalz, 0,25 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "16",
+    "description": "enthält Sulfite"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 11.0
+   },
+   {
+    "currency": "EUR",
+    "price": 9.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579320,
+  "vzn": "837",
+  "category": "",
+  "title": "Espresso Macchiato Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563704,
+  "vzn": "837",
+  "category": "",
+  "title": "Veganes BIO Haferkater Porridge Apfel-Zimt im Menü",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880842,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Grauburgunder vom Weingut Keth",
+  "description": "QbA, trocken, Rheinhessen, 0,25 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "16",
+    "description": "enthält Sulfite"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.7
+   },
+   {
+    "currency": "EUR",
+    "price": 8.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12623132,
+  "vzn": "837",
+  "category": "",
+  "title": "Puffreisriegel",
+  "description": "Süßigkeit zum Kindermenü",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 0.01
+   },
+   {
+    "currency": "EUR",
+    "price": 0.01
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721868,
+  "vzn": "837",
+  "category": "",
+  "title": "Sally S-Bahn",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721870,
+  "vzn": "837",
+  "category": "",
+  "title": "Simsala Sum",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721904,
+  "vzn": "837",
+  "category": "",
+  "title": "Nick Nachtzug",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13251880,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Bitburger Premium Pils groß",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 12691746,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Zimtschnecke",
+  "description": "90g",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721906,
+  "vzn": "837",
+  "category": "",
+  "title": "Benni IC Bus",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10563398,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Warmes Schinken-Käse-Baguette",
+  "description": "mit Frischkäse-Senf-Aufstrich",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   },
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880890,
+  "vzn": "837",
+  "category": "Kaltgetränke",
+  "title": "Voelkel Ingwershot mit Kurkuma",
+  "description": "95 ml",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880638,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Paulaner Oktoberfestbier",
+  "description": "0,5 l Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 6.2
+   },
+   {
+    "currency": "EUR",
+    "price": 5.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13886270,
+  "vzn": "837",
+  "category": "",
+  "title": "Currywurst",
+  "description": "& Tortilla-Crunch",
+  "checked": true,
+  "available": false,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579276,
+  "vzn": "837",
+  "category": "",
+  "title": "Cappuccino Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579278,
+  "vzn": "837",
+  "category": "",
+  "title": "Cappuccino Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.3
+   },
+   {
+    "currency": "EUR",
+    "price": 4.4
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13881148,
+  "vzn": "837",
+  "category": "Suppe",
+  "title": "Vegetarische Karotten-Ingwer-Suppe",
+  "description": "mit Brötchen",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13880610,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Voelkel Oktoberfest Ingwer Shot",
+  "description": "95 ml Flasche",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.2
+   },
+   {
+    "currency": "EUR",
+    "price": 3.5
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568830,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Margarine",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579280,
+  "vzn": "837",
+  "category": "",
+  "title": "Cappuccino Größe L",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.8
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10562898,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Currywurst mit Brötchen",
+  "description": "& Tortilla-Crunch",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579286,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "COCAYA Heiße Schokolade",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.8
+   },
+   {
+    "currency": "EUR",
+    "price": 4.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13568056,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Nissin Cup Noodles Hähnchen",
+  "description": "Ramen Style",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "3",
+    "description": "mit Geschmacksverstärker"
+   }
+  ],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.0
+   },
+   {
+    "currency": "EUR",
+    "price": 4.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721894,
+  "vzn": "837",
+  "category": "",
+  "title": "Opa Adler",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721896,
+  "vzn": "837",
+  "category": "",
+  "title": "Günni Güterzug",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721898,
+  "vzn": "837",
+  "category": "",
+  "title": "Robbi Regio",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579290,
+  "vzn": "837",
+  "category": "",
+  "title": "Espresso Größe S",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.0
+   },
+   {
+    "currency": "EUR",
+    "price": 3.3
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10579292,
+  "vzn": "837",
+  "category": "",
+  "title": "Espresso Größe M",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.3
+   },
+   {
+    "currency": "EUR",
+    "price": 3.6
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13723436,
+  "vzn": "837",
+  "category": "",
+  "title": "Milch kalt",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.6
+   },
+   {
+    "currency": "EUR",
+    "price": 3.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10508126,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Butter",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 1.4
+   },
+   {
+    "currency": "EUR",
+    "price": 1.2
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 10562910,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Ditsch Butterbrezel ",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 4.7
+   },
+   {
+    "currency": "EUR",
+    "price": 3.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13723438,
+  "vzn": "837",
+  "category": "",
+  "title": "Milch warm",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 3.6
+   },
+   {
+    "currency": "EUR",
+    "price": 3.0
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE",
+  "ecmId": 13721902,
+  "vzn": "837",
+  "category": "",
+  "title": "Ida IC",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 5.9
+   },
+   {
+    "currency": "EUR",
+    "price": 4.9
+   }
+  ]
+ },
+ {
+  "productType": "ARTICLE_WITH_EXTRAS",
+  "ecmId": 13500140,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Veganes Bauernbrötchen mit Saaten",
+  "description": "auf Wunsch mit Konfitüre, Bionella oder Honig ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "articleId": 13500138,
+  "extraChoice": {
+   "articleIds": [
+    13568830,
+    10508128,
+    13149662,
+    10508132
+   ],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras"
+  }
+ },
+ {
+  "productType": "ARTICLE_WITH_EXTRAS",
+  "ecmId": 10563700,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Veganes BIO Haferkater Porridge Apfel-Zimt",
+  "description": "auf Wunsch mit Haferkater Haselnuss-Cashew Topping",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleId": 10563704,
+  "extraChoice": {
+   "articleIds": [
+    10508150
+   ],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras"
+  }
+ },
+ {
+  "productType": "ARTICLE_WITH_EXTRAS",
+  "ecmId": 10563514,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Buttercroissant",
+  "description": "auf Wunsch mit Konfitüre, Bionella oder Honig ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "articleId": 10563512,
+  "extraChoice": {
+   "articleIds": [
+    13568830,
+    10508128,
+    13149662,
+    10508132
+   ],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras"
+  }
+ },
+ {
+  "productType": "ARTICLE_WITH_EXTRAS",
+  "ecmId": 13034826,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Veganes Bauernbrötchen ",
+  "description": "auf Wunsch mit Konfitüre, Bionella oder Honig ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "articleId": 13034824,
+  "extraChoice": {
+   "articleIds": [
+    13568830,
+    10508128,
+    13149662,
+    10508132
+   ],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras"
+  }
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14043862,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Knalle Popkorn dazu ein Heißgetränk",
+  "description": "nach Wahl Größe M",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   14036986
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [
+     10506140,
+     10564020,
+     10564052,
+     10564344,
+     10579278,
+     10564206,
+     10579332,
+     10579292,
+     10579320,
+     10579286,
+     10564038,
+     10564064,
+     10579182,
+     10579212,
+     10637808,
+     10579340
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Heißgetränk",
+    "textAfterChoice": "Ihr ausgewähltes Heißgetränk"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881106,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Kartoffelecken",
+  "description": "mit Ketchup, Mayo oder Knoblauch-Dip",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   13881104
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 7.1
+   },
+   {
+    "currency": "EUR",
+    "price": 5.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14044404,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Pinsa Pocket Verde Amore",
+  "description": "mit Spinat, getrockneten Tomaten & Mozzarella dazu ein Bier nach Wahl, 0,33 l Flasche",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   14044414
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [
+     10579380,
+     13409676,
+     12868348
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Getränk",
+    "textAfterChoice": "Ihr ausgewähltes Getränk"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 13.1
+   },
+   {
+    "currency": "EUR",
+    "price": 10.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13880944,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Ditsch Butterbrezel",
+  "description": "dazu Voelkel Oktoberfest Ingwer Shot, 95 ml",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   10562910,
+   13880610
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 8.0
+   },
+   {
+    "currency": "EUR",
+    "price": 6.7
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13702066,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Französisches Frühstück",
+  "description": "Croissant, 2 Brötchen, 2-mal Margarine, je 1-mal Bionella, Honig & Konfitüre",
+  "checked": true,
+  "available": false,
+  "visible": true,
+  "declarations": [],
+  "articleIds": [
+   10563512,
+   13500138,
+   13034824,
+   10508128,
+   13149662,
+   10508132,
+   13732676
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881168,
+  "vzn": "837",
+  "category": "Kindermenü",
+  "title": "Kindermenü (bis 14 J.): Fusilli mit Pesto",
+  "description": "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   }
+  ],
+  "articleIds": [
+   13881154,
+   13409722,
+   12623132
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [
+     10579402,
+     10579400,
+     10579368,
+     13294220,
+     13723438,
+     13723436
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Getränk",
+    "textAfterChoice": "Ihr ausgewähltes Getränk"
+   },
+   {
+    "articleIds": [
+     10559076,
+     10559078,
+     10559080,
+     10559084,
+     10559086,
+     10559088,
+     10559090,
+     10559092,
+     10559094,
+     10649788
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice": "Ihre Auswahl"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 11.9
+   },
+   {
+    "currency": "EUR",
+    "price": 9.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14044030,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Menü: Club-Sandwich",
+  "description": "dazu Krombacher Spezi",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "2",
+    "description": "mit Antioxidationsmittel"
+   },
+   {
+    "shortDescription": "4",
+    "description": "konserviert"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   },
+   {
+    "shortDescription": "9",
+    "description": "mit Phosphat"
+   },
+   {
+    "shortDescription": "12",
+    "description": "koffeinhaltig"
+   }
+  ],
+  "articleIds": [
+   14043990,
+   13294226
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 12.7
+   },
+   {
+    "currency": "EUR",
+    "price": 10.6
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881018,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Bio Fleischkäse mit Brötchen & Almdudler",
+  "description": "dazu Ketchup, Senf oder süßer Senf",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "articleIds": [
+   13880900,
+   13880854
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.9
+   },
+   {
+    "currency": "EUR",
+    "price": 9.1
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 10649544,
+  "vzn": "837",
+  "category": "Kindermenü",
+  "title": "Kindermenü (bis 14 J.): Haferkater Porridge",
+  "description": "Apfel-Zimt dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   10563704,
+   13409722,
+   12623132
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [
+     10579402,
+     10579400,
+     10579368,
+     13294220,
+     13723438,
+     13723436
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Getränk",
+    "textAfterChoice": "Ihr ausgewähltes Getränk"
+   },
+   {
+    "articleIds": [
+     10559076,
+     10559078,
+     10559080,
+     10559084,
+     10559086,
+     10559088,
+     10559090,
+     10559092,
+     10559094,
+     10649788
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice": "Ihre Auswahl"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13880920,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Bio Fleischkäse mit Brötchen ",
+  "description": "dazu Ketchup, Senf oder süßer Senf & Voelkel Oktoberfest Ingwer Shot",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "articleIds": [
+   13880900,
+   13880610
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.2
+   },
+   {
+    "currency": "EUR",
+    "price": 8.5
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13880990,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Bio Fleischkäse mit Brötchen & Festbier",
+  "description": "von Paulaner dazu Ketchup, Senf oder süßer Senf",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "articleIds": [
+   13880900,
+   13880638
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 11.9
+   },
+   {
+    "currency": "EUR",
+    "price": 9.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 12691980,
+  "vzn": "837",
+  "category": "Alkoholische Getränke",
+  "title": "Siegfried Gin Tonic",
+  "description": "mit Fever-Tree Mediterranean Tonic Water, 0,24 l, Alc. 41 Vol.-%",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "17",
+    "description": "chininhaltig"
+   }
+  ],
+  "articleIds": [
+   12691896,
+   10579394
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 13.2
+   },
+   {
+    "currency": "EUR",
+    "price": 11.0
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14024698,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Heimatgut Kartoffelchips mit Summer Gin",
+  "description": "und Fever-Tree Tonic",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "17",
+    "description": "chininhaltig"
+   }
+  ],
+  "articleIds": [
+   14024708,
+   13880582,
+   10579394
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.5
+   },
+   {
+    "currency": "EUR",
+    "price": 12.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14044390,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Zimtschnecke & Ingwer Shot",
+  "description": "von Voelkel, 95 ml Flasche",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   12691746,
+   13880890
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 8.6
+   },
+   {
+    "currency": "EUR",
+    "price": 7.2
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881058,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Siegfried Summer Gin Tonic",
+  "description": "mit Fever-Tree Mediterranean Tonic Water, 0,24 l, Alc. 41 Vol.-%",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "17",
+    "description": "chininhaltig"
+   }
+  ],
+  "articleIds": [
+   13880582,
+   10579394
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 13.2
+   },
+   {
+    "currency": "EUR",
+    "price": 11.0
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881186,
+  "vzn": "837",
+  "category": "Kindermenü",
+  "title": "Kindermenü (bis 14 J.): Kartoffelecken",
+  "description": "dazu ein Getränk, eine kleine Süßigkeit, einen Smoothie sowie ein Spielzeug",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   13409722,
+   12623132
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   },
+   {
+    "articleIds": [
+     10579402,
+     10579400,
+     10579368,
+     13294220,
+     13723438,
+     13723436
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Getränk",
+    "textAfterChoice": "Ihr ausgewähltes Getränk"
+   },
+   {
+    "articleIds": [
+     10559076,
+     10559078,
+     10559080,
+     10559084,
+     10559086,
+     10559088,
+     10559090,
+     10559092,
+     10559094,
+     10649788
+    ],
+    "textBeforeChoice": "Bitte wählen Sie ein Spielzeug (n. Verfügbarkeit)",
+    "textAfterChoice": "Ihre Auswahl"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 10.7
+   },
+   {
+    "currency": "EUR",
+    "price": 8.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14044484,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Brauhausgulasch mit Nudeln",
+  "description": "dazu Starnberger Hell, 0,5 l Flasche",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "13",
+    "description": "mit Alkohol"
+   }
+  ],
+  "articleIds": [
+   14044400,
+   12868350
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 22.7
+   },
+   {
+    "currency": "EUR",
+    "price": 18.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 14044066,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Zimtschnecke & Frappuccino® Pumpkin Spice",
+  "description": "von Starbucks®, 0,25 l Flasche",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   12691746,
+   14044056
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13880932,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Menü: Lisas Kesselchips mit Siegfried Summer Gin",
+  "description": "und Fever-Tree Tonic",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [
+   {
+    "shortDescription": "1",
+    "description": "mit Farbstoff"
+   },
+   {
+    "shortDescription": "17",
+    "description": "chininhaltig"
+   }
+  ],
+  "articleIds": [
+   10563806,
+   13880582,
+   10579394
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 15.5
+   },
+   {
+    "currency": "EUR",
+    "price": 12.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13884842,
+  "vzn": "837",
+  "category": "Aktion",
+  "title": "Bio Fleischkäse mit Brötchen",
+  "description": "dazu Ketchup, Senf oder süßer Senf",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [
+   {
+    "shortDescription": "5",
+    "description": "mit Konservierungsstoff Nitritpökelsalz"
+   }
+  ],
+  "articleIds": [
+   13880900
+  ],
+  "optionChoices": [
+   {
+    "articleIds": [],
+    "textBeforeChoice": "Bitte wählen Sie eine Soße",
+    "textAfterChoice": "Ihre ausgewählte Soße"
+   }
+  ],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 7.1
+   },
+   {
+    "currency": "EUR",
+    "price": 5.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 13881130,
+  "vzn": "837",
+  "category": "Snacks",
+  "title": "Currywurst mit Kartoffelecken",
+  "description": "dazu Ketchup, Mayo oder Knoblauch-Dip",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   13886270,
+   13881104
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": [],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras"
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 14.3
+   },
+   {
+    "currency": "EUR",
+    "price": 11.9
+   }
+  ]
+ },
+ {
+  "productType": "MENU",
+  "ecmId": 10563546,
+  "vzn": "837",
+  "category": "Frühstück",
+  "title": "Französisch",
+  "description": "Croissant, 2 Brötchen, 2-mal Butter, je 1-mal Bionella, Honig & Konfitüre",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "articleIds": [
+   10563512,
+   13500138,
+   13034824,
+   13732674,
+   10508128,
+   13149662,
+   10508132
+  ],
+  "optionChoices": [],
+  "extraChoice": {
+   "articleIds": []
+  },
+  "prices": [
+   {
+    "currency": "CHF",
+    "price": 9.5
+   },
+   {
+    "currency": "EUR",
+    "price": 7.9
+   }
+  ]
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10506144,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Filterkaffee",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10506142,
+    10506140,
+    10506138
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579328,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Latte Macchiato",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579330,
+    10579332,
+    10579334
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 13721880,
+  "vzn": "837",
+  "category": "Kindermenü",
+  "title": "Spielfiguren",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    13721872,
+    13721902,
+    13721896,
+    13721898,
+    13721906,
+    13721904,
+    13721894,
+    13721870,
+    13721868
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Spielfigur",
+   "textAfterChoice": "Ihre ausgewählte Spielfigur"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10564200,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Café au Lait",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10564202,
+    10564206,
+    10564204
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579274,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Cappuccino",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579276,
+    10579278,
+    10579280
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579210,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "EILLES TEE BIO Grüntee Jingshen",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579214,
+    10579212
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579338,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "EILLES TEE Spearminze",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579342,
+    10579340
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579180,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "EILLES TEE BIO English Breakfast",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579184,
+    10579182
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10564016,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Filterkaffee mit OATLY ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10564022,
+    10564020,
+    10564018
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 13703616,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Kaffee mit Oatly",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    13703624,
+    13703622,
+    13703620
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10564048,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Café Crème",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10564050,
+    10564052,
+    10564054
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10637776,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "EILLES TEE BIO Herbal Refresh Kräutertee",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10637810,
+    10637808
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 13703524,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Kaffee",
+  "checked": true,
+  "available": false,
+  "visible": false,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    13703532,
+    13703530,
+    13703528
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10564340,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Café Crème mit OATLY ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10564342,
+    10564344,
+    10564346
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579316,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Espresso Macchiato",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579318,
+    10579320
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10579288,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Espresso",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10579290,
+    10579292
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 13723432,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "Milch",
+  "description": "0,25 l warm oder kalt, auf Wunsch mit Honig ",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    13723436,
+    13723438
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Option",
+   "textAfterChoice": "Ihr ausgewählte Option"
+  },
+  "extraChoice": {
+   "articleIds": [
+    10508128
+   ],
+   "textBeforeChoice": "Wählen Sie Ihre Extras aus",
+   "textAfterChoice": "Ihre ausgewählten Extras<span>"
+  }
+ },
+ {
+  "productType": "OPTION_ARTICLE",
+  "ecmId": 10564062,
+  "vzn": "837",
+  "category": "Heißgetränke",
+  "title": "EILLES TEE BIO Earl Grey Tea",
+  "checked": true,
+  "available": true,
+  "visible": true,
+  "declarations": [],
+  "optionChoice": {
+   "articleIds": [
+    10564066,
+    10564064
+   ],
+   "textBeforeChoice": "Bitte wählen Sie eine Größe",
+   "textAfterChoice": "Ihre ausgewählte Größe"
+  },
+  "extraChoice": {
+   "articleIds": []
+  }
+ }
+]
