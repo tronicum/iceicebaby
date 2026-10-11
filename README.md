@@ -35,7 +35,7 @@ The server speaks MCP over **stdio** (no port). Any other MCP client can launch 
 | `set_location` | Coach, seat and exit station (validated) |
 | `add_to_cart` / `view_cart` / `remove_from_cart` / `clear_cart` | Local cart with EUR total |
 | `place_order` | Sends the order. **Only with `confirm=True`**, otherwise a preview |
-| `get_order_status` | `OPEN` (crew is checking) → `DECLINED` / accepted |
+| `get_order_status` | `OPEN` (crew is checking) → `DECLINED` / `ACCEPTED` |
 
 The menu is the *live* menu: `/bap/api/products` joined with `/bap/api/availabilities`.
 Sold-out items are hidden unless you pass `only_available=False`.
@@ -87,7 +87,9 @@ back as `OPEN` ("Wir prüfen Ihre Bestellanfrage") and then `DECLINED`:
 
 So the server works, but **ordering at the seat can be paused by the crew at any time**, even while
 `get_service_status` says `ACTIVE`. A decline is a normal outcome, not an error: go to the Bordbistro.
-An accepted/delivered order has not been observed yet; PRs with its status payload welcome.
+A second order with only a cappuccino was then `ACCEPTED` within about 80 seconds
+("Ihre Bestellung wurde angenommen und wird bald zu Ihnen gebracht."), so the full flow works end to end.
+Why the first one was declined is unknown (possibly the croissant with extra, possibly just crew workload).
 
 ## Notes
 
@@ -131,7 +133,7 @@ Der Server spricht MCP über **stdio** (kein Port). Andere MCP-Clients starten e
 | `set_location` | Wagen, Sitzplatz und Ausstieg (wird geprüft) |
 | `add_to_cart` / `view_cart` / `remove_from_cart` / `clear_cart` | Lokaler Warenkorb mit Summe in EUR |
 | `place_order` | Sendet die Bestellung. **Nur mit `confirm=True`**, sonst nur Vorschau |
-| `get_order_status` | `OPEN` (Team prüft) → `DECLINED` / angenommen |
+| `get_order_status` | `OPEN` (Team prüft) → `DECLINED` / `ACCEPTED` |
 
 Die Karte ist die *Live-Speisekarte*: `/bap/api/products` verknüpft mit `/bap/api/availabilities`.
 Ausverkauftes wird ausgeblendet, außer du übergibst `only_available=False`.
@@ -183,7 +185,9 @@ kam beim Team an, war zuerst `OPEN` („Wir prüfen Ihre Bestellanfrage“) und 
 
 Der Server funktioniert also, aber **Bestellen am Platz kann vom Team jederzeit pausiert werden**, auch wenn
 `get_service_status` `ACTIVE` meldet. Eine Ablehnung ist ein normales Ergebnis, kein Fehler: dann ins Bordbistro.
-Eine angenommene bzw. gelieferte Bestellung wurde noch nicht beobachtet; über Status-Beispiele per PR freuen wir uns.
+Eine zweite Bestellung nur mit Cappuccino wurde nach ca. 80 Sekunden `ACCEPTED`
+(„Ihre Bestellung wurde angenommen und wird bald zu Ihnen gebracht.“), der gesamte Ablauf funktioniert also.
+Warum die erste abgelehnt wurde, ist unklar (evtl. das Croissant mit Extra, evtl. nur Auslastung des Teams).
 
 ### Hinweise
 
